@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">النوتة</string>
+    <string name="newgame_txt">عشرة جديدة</string>
+    <string name="welcome_txt">مرحب مرحب</string>
+    <string name="firstteam_txt">اول جوز</string>
+    <string name="secondteam_txt">تاني جوز</string>
+    <string name="add_txt">أيد</string>
+    <string name="go_txt">يلا يا مدير</string>
+    <string name="another_txt">عشرة تانيه</string>
+</resources>
